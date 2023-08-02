@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gparted.desktop" score="22" last-seen="1690829643"/>
+    <application id="libreoffice-writer.desktop" score="2" last-seen="1690919787"/>
+    <application id="org.gnome.FileRoller.desktop" score="39" last-seen="1690919798"/>
+    <application id="github-desktop.desktop" score="23" last-seen="1690958508"/>
+    <application id="google-chrome.desktop" score="10859" last-seen="1690958506"/>
+    <application id="software-properties-gtk.desktop" score="21" last-seen="1690532447"/>
+    <application id="gnome-control-center.desktop" score="129" last-seen="1690547147"/>
+    <application id="org.gnome.gedit.desktop" score="11" last-seen="1690919272"/>
+    <application id="org.gnome.eog.desktop" score="62" last-seen="1690916634"/>
+    <application id="ktouch_ktouch.desktop" score="3813" last-seen="1690601961"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="3" last-seen="1690473198"/>
+    <application id="libreoffice-startcenter.desktop" score="0" last-seen="1690919773"/>
+    <application id="snap-store_ubuntu-software.desktop" score="5572" last-seen="1690957769"/>
+    <application id="gnome-initial-setup.desktop" score="3" last-seen="1690464986"/>
+    <application id="org.gnome.Calculator.desktop" score="0" last-seen="1690468167"/>
+    <application id="org.gnome.Nautilus.desktop" score="5711" last-seen="1690957781"/>
+    <application id="org.gnome.Terminal.desktop" score="18929" last-seen="1690958503"/>
+    <application id="apport-gtk.desktop" score="5" last-seen="1690470645"/>
+    <application id="firefox_firefox.desktop" score="546" last-seen="1690958359"/>
+    <application id="org.gnome.DiskUtility.desktop" score="72" last-seen="1690829641"/>
+    <application id="vlc.desktop" score="183" last-seen="1690897593"/>
+    <application id="rhythmbox.desktop" score="5" last-seen="1690878894"/>
+    <application id="gimp.desktop" score="2548" last-seen="1690915074"/>
+  </context>
+</application-state>

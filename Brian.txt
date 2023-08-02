@@ -1,0 +1,10 @@
+Desktop
+Documents
+Downloads
+Music
+out.txt
+Pictures
+Public
+snap
+Templates
+Videos

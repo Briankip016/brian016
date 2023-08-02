@@ -1,0 +1,75 @@
+2023/07/28-10:48:12.583 3 Reusing MANIFEST /home/brian016/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/28-10:48:12.605 3 Recovering log #3
+2023/07/28-10:48:12.606 3 Reusing old log /home/brian016/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2023/07/28-10:54:51.764 3 Level-0 table #5: started
+2023/07/28-10:54:51.877 3 Level-0 table #5: 29111 bytes OK
+2023/07/28-10:54:51.941 3 Delete type=0 #3
+2023/07/28-11:59:13.228 5 Level-0 table #7: started
+2023/07/28-11:59:13.264 5 Level-0 table #7: 41829 bytes OK
+2023/07/28-11:59:13.321 5 Delete type=0 #4
+2023/07/28-13:43:00.462 3 Level-0 table #9: started
+2023/07/28-13:43:00.509 3 Level-0 table #9: 23121 bytes OK
+2023/07/28-13:43:00.576 3 Delete type=0 #6
+2023/07/28-16:46:45.085 5 Level-0 table #11: started
+2023/07/28-16:46:45.128 5 Level-0 table #11: 16515 bytes OK
+2023/07/28-16:46:45.194 5 Delete type=0 #8
+2023/07/28-22:34:33.846 3 Level-0 table #13: started
+2023/07/28-22:34:33.893 3 Level-0 table #13: 11095 bytes OK
+2023/07/28-22:34:33.960 3 Delete type=0 #10
+2023/07/28-22:59:39.845 5 Level-0 table #15: started
+2023/07/28-22:59:39.886 5 Level-0 table #15: 10871 bytes OK
+2023/07/28-22:59:39.952 5 Delete type=0 #12
+2023/07/28-22:59:39.953 5 Compacting 4@0 + 1@1 files
+2023/07/28-22:59:40.068 5 Generated table #16@0: 156 keys, 40555 bytes
+2023/07/28-22:59:40.069 5 Compacted 4@0 + 1@1 files => 40555 bytes
+2023/07/28-22:59:40.132 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/28-22:59:40.136 5 Delete type=2 #13
+2023/07/28-22:59:40.136 5 Delete type=2 #9
+2023/07/28-22:59:40.137 5 Delete type=2 #15
+2023/07/28-22:59:40.137 5 Delete type=2 #7
+2023/07/28-22:59:40.138 5 Delete type=2 #11
+2023/07/28-23:19:21.845 5 Level-0 table #18: started
+2023/07/28-23:19:21.889 5 Level-0 table #18: 15418 bytes OK
+2023/07/28-23:19:21.955 5 Delete type=0 #14
+2023/07/29-02:02:57.085 5 Level-0 table #20: started
+2023/07/29-02:02:57.131 5 Level-0 table #20: 18038 bytes OK
+2023/07/29-02:02:57.198 5 Delete type=0 #17
+2023/07/29-06:58:57.093 5 Level-0 table #22: started
+2023/07/29-06:58:57.143 5 Level-0 table #22: 10947 bytes OK
+2023/07/29-06:58:57.210 5 Delete type=0 #19
+2023/07/29-13:03:42.205 5 Level-0 table #24: started
+2023/07/29-13:03:42.252 5 Level-0 table #24: 13827 bytes OK
+2023/07/29-13:03:42.319 5 Delete type=0 #21
+2023/07/29-13:03:42.322 5 Compacting 4@0 + 1@1 files
+2023/07/29-13:03:42.379 5 Generated table #25@0: 229 keys, 44738 bytes
+2023/07/29-13:03:42.379 5 Compacted 4@0 + 1@1 files => 44738 bytes
+2023/07/29-13:03:42.442 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/29-13:03:42.447 5 Delete type=2 #18
+2023/07/29-13:03:42.447 5 Delete type=2 #20
+2023/07/29-13:03:42.448 5 Delete type=2 #22
+2023/07/29-13:03:42.448 5 Delete type=2 #24
+2023/07/29-13:03:42.449 5 Delete type=2 #16
+2023/07/29-13:28:00.845 3 Level-0 table #27: started
+2023/07/29-13:28:00.899 3 Level-0 table #27: 10938 bytes OK
+2023/07/29-13:28:00.966 3 Delete type=0 #23
+2023/07/29-13:55:57.093 5 Level-0 table #29: started
+2023/07/29-13:55:57.140 5 Level-0 table #29: 12386 bytes OK
+2023/07/29-13:55:57.207 5 Delete type=0 #26
+2023/07/29-21:47:57.085 5 Level-0 table #31: started
+2023/07/29-21:47:57.142 5 Level-0 table #31: 7786 bytes OK
+2023/07/29-21:47:57.208 5 Delete type=0 #28
+2023/07/30-05:54:49.085 5 Level-0 table #33: started
+2023/07/30-05:54:49.135 5 Level-0 table #33: 6856 bytes OK
+2023/07/30-05:54:49.201 5 Delete type=0 #30
+2023/07/30-05:54:49.203 5 Compacting 4@0 + 1@1 files
+2023/07/30-05:54:49.253 5 Generated table #34@0: 239 keys, 41873 bytes
+2023/07/30-05:54:49.254 5 Compacted 4@0 + 1@1 files => 41873 bytes
+2023/07/30-05:54:49.316 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/30-05:54:49.320 5 Delete type=2 #29
+2023/07/30-05:54:49.321 5 Delete type=2 #33
+2023/07/30-05:54:49.321 5 Delete type=2 #31
+2023/07/30-05:54:49.322 5 Delete type=2 #27
+2023/07/30-05:54:49.322 5 Delete type=2 #25
+2023/07/30-07:22:25.085 5 Level-0 table #36: started
+2023/07/30-07:22:25.128 5 Level-0 table #36: 24974 bytes OK
+2023/07/30-07:22:25.195 5 Delete type=0 #32

@@ -1,0 +1,30 @@
+2023/07/31-16:54:15.422 ab7 Reusing MANIFEST /home/brian016/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/31-16:54:15.425 ab7 Recovering log #6
+2023/07/31-16:54:15.436 ab7 Reusing old log /home/brian016/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000006.log 
+2023/07/31-18:51:04.983 a79 Level-0 table #11: started
+2023/07/31-18:51:05.075 a79 Level-0 table #11: 1714556 bytes OK
+2023/07/31-18:51:05.170 a79 Delete type=0 #6
+2023/07/31-18:51:14.661 a79 Compacting 1@1 + 1@2 files
+2023/07/31-18:51:14.743 a79 Generated table #12@1: 432 keys, 70092 bytes
+2023/07/31-18:51:14.743 a79 Compacted 1@1 + 1@2 files => 70092 bytes
+2023/07/31-18:51:14.799 a79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/31-18:51:14.800 a79 Delete type=2 #8
+2023/07/31-18:51:14.800 a79 Delete type=2 #11
+2023/08/01-13:44:41.451 a79 Level-0 table #14: started
+2023/08/01-13:44:41.535 a79 Level-0 table #14: 1426330 bytes OK
+2023/08/01-13:44:41.594 a79 Delete type=0 #10
+2023/08/01-13:51:58.276 a78 Compacting 1@1 + 1@2 files
+2023/08/01-13:51:58.369 a78 Generated table #15@1: 599 keys, 52563 bytes
+2023/08/01-13:51:58.369 a78 Compacted 1@1 + 1@2 files => 52563 bytes
+2023/08/01-13:51:58.425 a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/01-13:51:58.426 a78 Delete type=2 #12
+2023/08/01-13:51:58.426 a78 Delete type=2 #14
+2023/08/01-18:57:52.767 a79 Level-0 table #17: started
+2023/08/01-18:57:52.866 a79 Level-0 table #17: 1438885 bytes OK
+2023/08/01-18:57:52.931 a79 Delete type=0 #13
+2023/08/01-19:01:09.488 a79 Compacting 1@1 + 1@2 files
+2023/08/01-19:01:09.567 a79 Generated table #18@1: 926 keys, 58270 bytes
+2023/08/01-19:01:09.567 a79 Compacted 1@1 + 1@2 files => 58270 bytes
+2023/08/01-19:01:09.623 a79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/01-19:01:09.623 a79 Delete type=2 #15
+2023/08/01-19:01:09.623 a79 Delete type=2 #17

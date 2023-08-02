@@ -1,0 +1,36 @@
+2023/08/01-16:46:43.365 a78 Reusing MANIFEST /home/brian016/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/01-16:46:43.365 a78 Recovering log #43
+2023/08/01-16:46:43.366 a78 Reusing old log /home/brian016/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000043.log 
+2023/08/01-16:47:34.847 a79 Compacting 1@1 + 1@2 files
+2023/08/01-16:47:34.937 a79 Generated table #46@1: 53 keys, 31026 bytes
+2023/08/01-16:47:34.937 a79 Compacted 1@1 + 1@2 files => 31026 bytes
+2023/08/01-16:47:35.010 a79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/01-16:47:35.011 a79 Delete type=2 #42
+2023/08/01-16:47:35.011 a79 Delete type=2 #44
+2023/08/01-17:23:58.983 a79 Level-0 table #48: started
+2023/08/01-17:23:59.085 a79 Level-0 table #48: 2455079 bytes OK
+2023/08/01-17:23:59.148 a79 Delete type=0 #43
+2023/08/01-17:31:15.040 a78 Compacting 1@1 + 1@2 files
+2023/08/01-17:31:15.093 a78 Generated table #49@1: 53 keys, 22292 bytes
+2023/08/01-17:31:15.093 a78 Compacted 1@1 + 1@2 files => 22292 bytes
+2023/08/01-17:31:15.149 a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/01-17:31:15.150 a78 Delete type=2 #48
+2023/08/01-17:31:15.150 a78 Delete type=2 #46
+2023/08/01-21:52:22.916 a79 Level-0 table #51: started
+2023/08/01-21:52:23.046 a79 Level-0 table #51: 2189682 bytes OK
+2023/08/01-21:52:23.148 a79 Delete type=0 #47
+2023/08/02-00:32:22.956 ab7 Compacting 1@1 + 1@2 files
+2023/08/02-00:32:23.047 ab7 Generated table #52@1: 53 keys, 29910 bytes
+2023/08/02-00:32:23.047 ab7 Compacted 1@1 + 1@2 files => 29910 bytes
+2023/08/02-00:32:23.140 ab7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/02-00:32:23.141 ab7 Delete type=2 #49
+2023/08/02-00:32:23.141 ab7 Delete type=2 #51
+2023/08/02-04:57:22.920 a79 Level-0 table #54: started
+2023/08/02-04:57:23.053 a79 Level-0 table #54: 2098745 bytes OK
+2023/08/02-04:57:23.154 a79 Delete type=0 #50
+2023/08/02-07:27:23.060 a78 Compacting 1@1 + 1@2 files
+2023/08/02-07:27:23.159 a78 Generated table #55@1: 53 keys, 29903 bytes
+2023/08/02-07:27:23.159 a78 Compacted 1@1 + 1@2 files => 29903 bytes
+2023/08/02-07:27:23.252 a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/02-07:27:23.253 a78 Delete type=2 #54
+2023/08/02-07:27:23.253 a78 Delete type=2 #52

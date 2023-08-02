@@ -1,0 +1,42 @@
+2023/07/30-14:53:33.031 a78 Reusing MANIFEST /home/brian016/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/07/30-14:53:33.204 a78 Recovering log #10
+2023/07/30-14:53:33.575 a78 Reusing old log /home/brian016/.config/google-chrome/Default/Sync Data/LevelDB/000010.log 
+2023/07/30-14:57:09.292 ab6 Level-0 table #14: started
+2023/07/30-14:57:09.363 ab6 Level-0 table #14: 183823 bytes OK
+2023/07/30-14:57:09.473 ab6 Delete type=0 #10
+2023/07/30-22:49:51.263 ab6 Level-0 table #16: started
+2023/07/30-22:49:51.355 ab6 Level-0 table #16: 103553 bytes OK
+2023/07/30-22:49:51.469 ab6 Delete type=0 #13
+2023/07/30-22:49:51.470 ab6 Compacting 4@0 + 1@1 files
+2023/07/30-22:49:51.561 ab6 Generated table #17@0: 58 keys, 12530 bytes
+2023/07/30-22:49:51.561 ab6 Compacted 4@0 + 1@1 files => 12530 bytes
+2023/07/30-22:49:51.654 ab6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/30-22:49:51.655 ab6 Delete type=2 #9
+2023/07/30-22:49:51.655 ab6 Delete type=2 #14
+2023/07/30-22:49:51.655 ab6 Delete type=2 #7
+2023/07/30-22:49:51.656 ab6 Delete type=2 #16
+2023/07/30-22:49:51.656 ab6 Delete type=2 #11
+2023/07/31-10:02:14.614 a78 Level-0 table #19: started
+2023/07/31-10:02:14.662 a78 Level-0 table #19: 104590 bytes OK
+2023/07/31-10:02:14.727 a78 Delete type=0 #15
+2023/08/01-12:18:50.847 a79 Level-0 table #21: started
+2023/08/01-12:18:50.911 a79 Level-0 table #21: 106575 bytes OK
+2023/08/01-12:18:50.986 a79 Delete type=0 #18
+2023/08/01-13:07:08.687 ab7 Level-0 table #23: started
+2023/08/01-13:07:08.730 ab7 Level-0 table #23: 127308 bytes OK
+2023/08/01-13:07:08.826 ab7 Delete type=0 #20
+2023/08/01-21:44:19.283 a78 Level-0 table #25: started
+2023/08/01-21:44:19.368 a78 Level-0 table #25: 112041 bytes OK
+2023/08/01-21:44:19.425 a78 Delete type=0 #22
+2023/08/01-21:44:19.425 a78 Compacting 4@0 + 1@1 files
+2023/08/01-21:44:19.503 a78 Generated table #26@0: 94 keys, 22855 bytes
+2023/08/01-21:44:19.503 a78 Compacted 4@0 + 1@1 files => 22855 bytes
+2023/08/01-21:44:19.645 a78 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/01-21:44:19.646 a78 Delete type=2 #19
+2023/08/01-21:44:19.646 a78 Delete type=2 #21
+2023/08/01-21:44:19.646 a78 Delete type=2 #17
+2023/08/01-21:44:19.646 a78 Delete type=2 #25
+2023/08/01-21:44:19.646 a78 Delete type=2 #23
+2023/08/01-22:14:07.692 a78 Level-0 table #28: started
+2023/08/01-22:14:07.740 a78 Level-0 table #28: 106726 bytes OK
+2023/08/01-22:14:07.797 a78 Delete type=0 #24

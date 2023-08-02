@@ -1,0 +1,15 @@
+2023/07/28-10:48:12.582 1067 Reusing MANIFEST /home/brian016/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/07/28-10:48:12.605 1067 Recovering log #3
+2023/07/28-10:48:12.609 1067 Reusing old log /home/brian016/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2023/07/28-13:41:56.736 f98 Level-0 table #5: started
+2023/07/28-13:41:56.782 f98 Level-0 table #5: 152004 bytes OK
+2023/07/28-13:41:56.848 f98 Delete type=0 #3
+2023/07/28-18:09:05.796 f98 Level-0 table #7: started
+2023/07/28-18:09:05.865 f98 Level-0 table #7: 215573 bytes OK
+2023/07/28-18:09:05.922 f98 Delete type=0 #4
+2023/07/28-20:22:55.218 f99 Level-0 table #9: started
+2023/07/28-20:22:55.259 f99 Level-0 table #9: 222689 bytes OK
+2023/07/28-20:22:55.316 f99 Delete type=0 #6
+2023/07/29-06:46:56.967 f98 Level-0 table #11: started
+2023/07/29-06:46:57.024 f98 Level-0 table #11: 185716 bytes OK
+2023/07/29-06:46:57.081 f98 Delete type=0 #8

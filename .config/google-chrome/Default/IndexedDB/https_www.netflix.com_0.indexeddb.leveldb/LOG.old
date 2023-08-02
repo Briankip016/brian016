@@ -1,0 +1,15 @@
+2023/08/01-08:50:35.929 a78 Reusing MANIFEST /home/brian016/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/01-08:50:35.930 a78 Recovering log #36
+2023/08/01-08:50:35.930 a78 Reusing old log /home/brian016/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000036.log 
+2023/08/01-09:30:36.843 a79 Level-0 table #41: started
+2023/08/01-09:30:36.983 a79 Level-0 table #41: 2533541 bytes OK
+2023/08/01-09:30:37.081 a79 Delete type=0 #36
+2023/08/01-09:40:22.097 a78 Compacting 1@1 + 1@2 files
+2023/08/01-09:40:22.164 a78 Generated table #42@1: 53 keys, 29336 bytes
+2023/08/01-09:40:22.164 a78 Compacted 1@1 + 1@2 files => 29336 bytes
+2023/08/01-09:40:22.220 a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/01-09:40:22.221 a78 Delete type=2 #38
+2023/08/01-09:40:22.221 a78 Delete type=2 #41
+2023/08/01-13:16:22.920 a79 Level-0 table #44: started
+2023/08/01-13:16:23.051 a79 Level-0 table #44: 2325176 bytes OK
+2023/08/01-13:16:23.165 a79 Delete type=0 #40

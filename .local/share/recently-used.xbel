@@ -1,0 +1,2271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/brian016/Downloads/google-chrome-stable_current_amd64.deb" added="2023-07-27T14:17:28.606297Z" modified="2023-07-27T14:17:43.937241Z" visited="2023-07-27T14:17:28.606303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-07-27T14:17:43.544517Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-07-27T14:17:43.937227Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/out.txt" added="2023-07-28T08:26:35.155729Z" modified="2023-07-28T09:10:03.901940Z" visited="2023-07-28T08:26:35.155732Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-07-28T09:10:03.901936Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-07-28T08:26:37.013318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Documents/books" added="2023-07-28T08:38:28.617695Z" modified="2023-07-28T08:38:28.617714Z" visited="2023-07-28T08:38:28.617697Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-07-28T08:38:28.617704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Documents/books/my%20books" added="2023-07-28T08:46:28.053615Z" modified="2023-07-28T08:46:28.053661Z" visited="2023-07-28T08:46:28.053619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-07-28T08:46:28.053646Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Brian.txt" added="2023-07-28T09:09:49.986872Z" modified="2023-07-28T09:13:28.594021Z" visited="2023-07-28T09:09:49.986885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-07-28T09:09:49.986888Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-07-28T09:13:28.594014Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Music/spotify.txt" added="2023-07-28T09:35:35.695260Z" modified="2023-07-28T09:37:46.807939Z" visited="2023-07-28T09:35:35.695260Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-07-28T09:35:35.695263Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-07-28T09:37:46.807932Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/Screenshots/Screenshot%20from%202023-07-29%2006-23-54.png" added="2023-07-29T03:23:54.408490Z" modified="2023-07-29T09:49:56.008981Z" visited="2023-07-29T03:23:54.408492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-07-29T03:23:54.408494Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-07-29T09:49:56.008976Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/Screenshots/Screenshot%20from%202023-07-29%2006-23-54-1.png" added="2023-07-29T03:23:54.772613Z" modified="2023-07-29T09:49:53.015086Z" visited="2023-07-29T03:23:54.772614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-07-29T03:23:54.772615Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-07-29T09:49:53.015080Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/Screenshots/Screenshot%20from%202023-07-29%2006-23-55.png" added="2023-07-29T03:23:55.262059Z" modified="2023-07-29T09:49:37.600749Z" visited="2023-07-29T03:23:55.262059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-07-29T03:23:55.262062Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-07-29T09:49:37.600744Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/Screenshots/Screenshot%20from%202023-07-29%2006-23-55-1.png" added="2023-07-29T03:23:55.613814Z" modified="2023-07-29T09:49:29.877095Z" visited="2023-07-29T03:23:55.613816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-07-29T03:23:55.613821Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-07-29T09:49:29.877093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Downloads/org.gimp.GIMP%20(2).flatpakref" added="2023-08-01T09:41:06.584054Z" modified="2023-08-01T09:41:20.890496Z" visited="2023-08-01T09:41:06.584055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.flatpak.ref"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-01T09:41:20.890494Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Downloads/org.gimp.GIMP.flatpakref" added="2023-08-01T09:42:01.381767Z" modified="2023-08-01T09:42:01.381772Z" visited="2023-08-01T09:42:01.381768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.flatpak.ref"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-01T09:42:01.381770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Downloads/org.gimp.GIMP%20(1).flatpakref" added="2023-08-01T09:42:23.505478Z" modified="2023-08-01T09:42:23.505485Z" visited="2023-08-01T09:42:23.505479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.flatpak.ref"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-01T09:42:23.505483Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/myproject.xcf" added="2023-08-01T11:05:15.342950Z" modified="2023-08-01T11:07:28.667676Z" visited="2023-08-01T11:05:15.342954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T11:07:28.667673Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/myproject.png" added="2023-08-01T11:07:12.676507Z" modified="2023-08-01T15:17:37.506154Z" visited="2023-08-01T11:07:12.676510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T11:07:17.478892Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-08-01T11:07:32.145903Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:17:37.506151Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5313.JPG" added="2023-08-01T12:31:29.133167Z" modified="2023-08-01T15:35:55.570569Z" visited="2023-08-01T12:31:29.133184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-08-01T12:31:29.133243Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:55.570566Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5314.JPG" added="2023-08-01T12:31:34.663621Z" modified="2023-08-01T15:35:55.818845Z" visited="2023-08-01T12:31:34.663622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:55.818844Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5789.JPG" added="2023-08-01T12:31:52.662757Z" modified="2023-08-01T15:35:55.979170Z" visited="2023-08-01T12:31:52.662764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:55.979166Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5790.JPG" added="2023-08-01T12:31:53.445263Z" modified="2023-08-01T15:35:56.308304Z" visited="2023-08-01T12:31:53.445263Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:56.308302Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5791.JPG" added="2023-08-01T12:32:02.194791Z" modified="2023-08-01T15:35:56.555821Z" visited="2023-08-01T12:32:02.194792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:56.555819Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5792.JPG" added="2023-08-01T12:32:03.214512Z" modified="2023-08-01T15:35:56.929524Z" visited="2023-08-01T12:32:03.214513Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:56.929520Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5820.JPG" added="2023-08-01T12:32:04.309783Z" modified="2023-08-01T15:35:57.028385Z" visited="2023-08-01T12:32:04.309783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:57.028383Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5821.JPG" added="2023-08-01T12:32:05.367889Z" modified="2023-08-01T15:35:57.329478Z" visited="2023-08-01T12:32:05.367890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:57.329475Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5822.JPG" added="2023-08-01T12:32:06.354116Z" modified="2023-08-01T15:35:57.453924Z" visited="2023-08-01T12:32:06.354117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:57.453922Z" count="5"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T12:35:22.577950Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5823.JPG" added="2023-08-01T12:32:29.391326Z" modified="2023-08-01T12:47:07.089430Z" visited="2023-08-01T12:32:29.391327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:07.089428Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5824.JPG" added="2023-08-01T12:32:30.402767Z" modified="2023-08-01T15:35:57.857991Z" visited="2023-08-01T12:32:30.402770Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:57.857988Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/only.xcf" added="2023-08-01T12:34:27.640245Z" modified="2023-08-01T12:34:28.013678Z" visited="2023-08-01T12:34:27.640246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T12:34:28.013674Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5825.JPG" added="2023-08-01T12:46:57.750862Z" modified="2023-08-01T15:35:58.109360Z" visited="2023-08-01T12:46:57.750863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:58.109356Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5826.JPG" added="2023-08-01T12:46:58.129779Z" modified="2023-08-01T15:35:58.217005Z" visited="2023-08-01T12:46:58.129780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:58.216999Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5827.JPG" added="2023-08-01T12:46:58.507624Z" modified="2023-08-01T15:35:58.503758Z" visited="2023-08-01T12:46:58.507625Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:58.503756Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5839.JPG" added="2023-08-01T12:46:59.045343Z" modified="2023-08-01T15:35:58.677741Z" visited="2023-08-01T12:46:59.045344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:58.677738Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5840.JPG" added="2023-08-01T12:46:59.211930Z" modified="2023-08-01T15:35:58.899513Z" visited="2023-08-01T12:46:59.211933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:58.899511Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5841.JPG" added="2023-08-01T12:46:59.595642Z" modified="2023-08-01T15:35:59.031723Z" visited="2023-08-01T12:46:59.595642Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:59.031721Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5842.JPG" added="2023-08-01T12:47:00.020428Z" modified="2023-08-01T15:35:59.303046Z" visited="2023-08-01T12:47:00.020429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:59.303042Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5843.JPG" added="2023-08-01T12:47:00.342199Z" modified="2023-08-01T15:35:59.419042Z" visited="2023-08-01T12:47:00.342200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:59.419039Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5844.JPG" added="2023-08-01T12:47:02.195879Z" modified="2023-08-01T15:35:59.664616Z" visited="2023-08-01T12:47:02.195880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:59.664613Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5845.JPG" added="2023-08-01T12:47:02.617211Z" modified="2023-08-01T15:35:59.815417Z" visited="2023-08-01T12:47:02.617211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:59.815415Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-08-01T14:57:55.215269Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/Untitled.png" added="2023-08-01T12:47:08.863808Z" modified="2023-08-01T15:35:55.426471Z" visited="2023-08-01T12:47:08.863809Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:55.426469Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/qrimg002.png" added="2023-08-01T12:47:08.959545Z" modified="2023-08-01T15:35:55.084095Z" visited="2023-08-01T12:47:08.959546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:55.084093Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/qrimg001%20-%20Copy.png" added="2023-08-01T12:47:09.199784Z" modified="2023-08-01T15:35:54.915240Z" visited="2023-08-01T12:47:09.199785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:54.915236Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/qrimg001.png" added="2023-08-01T12:47:09.386885Z" modified="2023-08-01T15:35:54.701838Z" visited="2023-08-01T12:47:09.386886Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:54.701836Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5838.JPG" added="2023-08-01T12:47:09.850031Z" modified="2023-08-01T15:35:54.688162Z" visited="2023-08-01T12:47:09.850032Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:54.688160Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5837.JPG" added="2023-08-01T12:47:10.075864Z" modified="2023-08-01T15:35:54.312992Z" visited="2023-08-01T12:47:10.075865Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:54.312989Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5836.JPG" added="2023-08-01T12:47:10.321146Z" modified="2023-08-01T15:35:52.522482Z" visited="2023-08-01T12:47:10.321147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:52.522480Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5835.JPG" added="2023-08-01T12:47:10.568792Z" modified="2023-08-01T12:47:10.568811Z" visited="2023-08-01T12:47:10.568794Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:10.568803Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5834.JPG" added="2023-08-01T12:47:10.733106Z" modified="2023-08-01T12:47:10.733114Z" visited="2023-08-01T12:47:10.733107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:10.733111Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5833.JPG" added="2023-08-01T12:47:10.967009Z" modified="2023-08-01T12:47:10.967015Z" visited="2023-08-01T12:47:10.967010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:10.967013Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5832.JPG" added="2023-08-01T12:47:11.164638Z" modified="2023-08-01T12:47:11.164644Z" visited="2023-08-01T12:47:11.164639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:11.164642Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5831.JPG" added="2023-08-01T12:47:11.359314Z" modified="2023-08-01T12:47:11.359319Z" visited="2023-08-01T12:47:11.359315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:11.359317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5830.JPG" added="2023-08-01T12:47:11.498914Z" modified="2023-08-01T12:47:11.498920Z" visited="2023-08-01T12:47:11.498915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:11.498918Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5829.JPG" added="2023-08-01T12:47:11.735910Z" modified="2023-08-01T12:47:11.735915Z" visited="2023-08-01T12:47:11.735911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:11.735913Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5828.JPG" added="2023-08-01T12:47:12.218319Z" modified="2023-08-01T12:47:12.218324Z" visited="2023-08-01T12:47:12.218319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:12.218322Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5819.JPG" added="2023-08-01T12:47:12.565665Z" modified="2023-08-01T12:47:12.565674Z" visited="2023-08-01T12:47:12.565666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:12.565671Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5818.JPG" added="2023-08-01T12:47:12.701336Z" modified="2023-08-01T12:47:12.701342Z" visited="2023-08-01T12:47:12.701337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:12.701340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5817.JPG" added="2023-08-01T12:47:13.071604Z" modified="2023-08-01T12:47:13.071611Z" visited="2023-08-01T12:47:13.071605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:13.071608Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5816.JPG" added="2023-08-01T12:47:13.396069Z" modified="2023-08-01T12:47:13.396076Z" visited="2023-08-01T12:47:13.396070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:13.396073Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5815.JPG" added="2023-08-01T12:47:13.626153Z" modified="2023-08-01T12:47:13.626159Z" visited="2023-08-01T12:47:13.626154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:13.626156Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5814.JPG" added="2023-08-01T12:47:13.773574Z" modified="2023-08-01T12:47:13.773580Z" visited="2023-08-01T12:47:13.773575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:13.773578Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5813.JPG" added="2023-08-01T12:47:14.025781Z" modified="2023-08-01T12:47:14.025787Z" visited="2023-08-01T12:47:14.025781Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:14.025784Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5812.JPG" added="2023-08-01T12:47:14.162500Z" modified="2023-08-01T12:47:14.162506Z" visited="2023-08-01T12:47:14.162501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:14.162504Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5811.JPG" added="2023-08-01T12:47:14.397195Z" modified="2023-08-01T12:47:14.397202Z" visited="2023-08-01T12:47:14.397196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:14.397199Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5810.JPG" added="2023-08-01T12:47:14.766401Z" modified="2023-08-01T12:47:14.766412Z" visited="2023-08-01T12:47:14.766403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:14.766407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5809.JPG" added="2023-08-01T12:47:14.870507Z" modified="2023-08-01T12:47:14.870512Z" visited="2023-08-01T12:47:14.870507Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:14.870510Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5808.JPG" added="2023-08-01T12:47:15.116632Z" modified="2023-08-01T12:47:15.116653Z" visited="2023-08-01T12:47:15.116635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:15.116644Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5807.JPG" added="2023-08-01T12:47:15.250656Z" modified="2023-08-01T12:47:15.250663Z" visited="2023-08-01T12:47:15.250657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:15.250661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5806.JPG" added="2023-08-01T12:47:15.524218Z" modified="2023-08-01T12:47:26.202906Z" visited="2023-08-01T12:47:15.524219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:26.202904Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5805.JPG" added="2023-08-01T12:47:15.652867Z" modified="2023-08-01T12:47:28.926182Z" visited="2023-08-01T12:47:15.652868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:28.926180Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5804.JPG" added="2023-08-01T12:47:15.908359Z" modified="2023-08-01T12:47:29.299823Z" visited="2023-08-01T12:47:15.908360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:29.299815Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5803.JPG" added="2023-08-01T12:47:16.040198Z" modified="2023-08-01T12:47:29.467389Z" visited="2023-08-01T12:47:16.040199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:29.467387Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5802.JPG" added="2023-08-01T12:47:16.293479Z" modified="2023-08-01T12:47:29.835797Z" visited="2023-08-01T12:47:16.293480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:29.835794Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5801.JPG" added="2023-08-01T12:47:16.434134Z" modified="2023-08-01T12:47:30.022730Z" visited="2023-08-01T12:47:16.434135Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:30.022705Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5800.JPG" added="2023-08-01T12:47:16.702808Z" modified="2023-08-01T12:47:30.382868Z" visited="2023-08-01T12:47:16.702810Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:30.382860Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5799.JPG" added="2023-08-01T12:47:16.834424Z" modified="2023-08-01T12:47:30.615744Z" visited="2023-08-01T12:47:16.834425Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:30.615743Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5798.JPG" added="2023-08-01T12:47:17.098515Z" modified="2023-08-01T12:47:30.936155Z" visited="2023-08-01T12:47:17.098516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:30.936153Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5797.JPG" added="2023-08-01T12:47:17.215005Z" modified="2023-08-01T12:47:31.274027Z" visited="2023-08-01T12:47:17.215019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:31.274025Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5795.JPG" added="2023-08-01T12:47:17.698707Z" modified="2023-08-01T12:47:31.943060Z" visited="2023-08-01T12:47:17.698709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:31.943055Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5794.JPG" added="2023-08-01T12:47:17.906460Z" modified="2023-08-01T12:47:32.323205Z" visited="2023-08-01T12:47:17.906461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:32.323202Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5793.JPG" added="2023-08-01T12:47:18.033254Z" modified="2023-08-01T12:47:35.402373Z" visited="2023-08-01T12:47:18.033255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:35.402371Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5788.JPG" added="2023-08-01T12:47:18.278363Z" modified="2023-08-01T12:47:38.206154Z" visited="2023-08-01T12:47:18.278364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:38.206152Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5787.JPG" added="2023-08-01T12:47:18.481184Z" modified="2023-08-01T13:06:03.356532Z" visited="2023-08-01T12:47:18.481185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T13:06:03.356526Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4421.JPG" added="2023-08-01T12:47:18.677554Z" modified="2023-08-01T13:06:05.232494Z" visited="2023-08-01T12:47:18.677555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T13:06:05.232490Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4415.JPG" added="2023-08-01T12:47:18.809785Z" modified="2023-08-01T13:06:05.686343Z" visited="2023-08-01T12:47:18.809786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T13:06:05.686339Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4414.JPG" added="2023-08-01T12:47:19.032018Z" modified="2023-08-01T13:06:07.228779Z" visited="2023-08-01T12:47:19.032019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T13:06:07.228776Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4413.JPG" added="2023-08-01T12:47:19.221133Z" modified="2023-08-01T13:06:09.335219Z" visited="2023-08-01T12:47:19.221134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T13:06:09.335216Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4409.JPG" added="2023-08-01T12:47:19.372721Z" modified="2023-08-01T13:06:10.016954Z" visited="2023-08-01T12:47:19.372721Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T13:06:10.016950Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4396.JPG" added="2023-08-01T12:47:19.567042Z" modified="2023-08-01T13:06:10.597524Z" visited="2023-08-01T12:47:19.567043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T13:06:10.597518Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4395.JPG" added="2023-08-01T12:47:19.783679Z" modified="2023-08-01T13:06:17.268718Z" visited="2023-08-01T12:47:19.783680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T13:06:11.140482Z" count="4"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T13:06:17.268715Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_5796.JPG" added="2023-08-01T12:47:23.769080Z" modified="2023-08-01T12:47:31.600971Z" visited="2023-08-01T12:47:23.769081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:31.600969Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4394.JPG" added="2023-08-01T12:47:44.760730Z" modified="2023-08-01T12:47:48.076074Z" visited="2023-08-01T12:47:44.760730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:48.076072Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4393.JPG" added="2023-08-01T12:47:45.186034Z" modified="2023-08-01T12:47:47.533203Z" visited="2023-08-01T12:47:45.186035Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:47.533201Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/_MG_4392.JPG" added="2023-08-01T12:47:45.627508Z" modified="2023-08-01T12:47:45.627516Z" visited="2023-08-01T12:47:45.627509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T12:47:45.627513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5846.JPG" added="2023-08-01T14:57:58.756887Z" modified="2023-08-01T15:36:00.062262Z" visited="2023-08-01T14:57:58.756888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:00.062259Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5847.JPG" added="2023-08-01T14:57:59.629634Z" modified="2023-08-01T15:36:00.253952Z" visited="2023-08-01T14:57:59.629634Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:00.253950Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5848.JPG" added="2023-08-01T14:58:01.149075Z" modified="2023-08-01T15:36:00.544108Z" visited="2023-08-01T14:58:01.149076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:00.544106Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5849.JPG" added="2023-08-01T14:58:03.083099Z" modified="2023-08-01T15:36:00.897034Z" visited="2023-08-01T14:58:03.083100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:00.897031Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T14:58:43.948918Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/josee.JPG" added="2023-08-01T15:17:06.641728Z" modified="2023-08-01T15:17:38.122732Z" visited="2023-08-01T15:17:06.641730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T15:17:11.356536Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:17:38.122730Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5850.JPG" added="2023-08-01T15:30:49.133689Z" modified="2023-08-01T15:36:01.164446Z" visited="2023-08-01T15:30:49.133690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:01.164443Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5851.JPG" added="2023-08-01T15:30:50.147079Z" modified="2023-08-01T15:36:01.531871Z" visited="2023-08-01T15:30:50.147080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:01.531868Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5852.JPG" added="2023-08-01T15:30:51.103574Z" modified="2023-08-01T15:36:01.899560Z" visited="2023-08-01T15:30:51.103576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:01.899558Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5853.JPG" added="2023-08-01T15:30:56.814531Z" modified="2023-08-01T15:30:56.814537Z" visited="2023-08-01T15:30:56.814532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:30:56.814535Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5854.JPG" added="2023-08-01T15:30:57.649609Z" modified="2023-08-01T15:36:02.111993Z" visited="2023-08-01T15:30:57.649610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:02.111991Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5857.JPG" added="2023-08-01T15:30:58.873752Z" modified="2023-08-01T15:36:02.443950Z" visited="2023-08-01T15:30:58.873753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:02.443948Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5858.JPG" added="2023-08-01T15:31:00.562565Z" modified="2023-08-01T15:31:00.562571Z" visited="2023-08-01T15:31:00.562566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:31:00.562569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5859.JPG" added="2023-08-01T15:31:01.527684Z" modified="2023-08-01T15:31:01.527692Z" visited="2023-08-01T15:31:01.527685Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:31:01.527689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5860.JPG" added="2023-08-01T15:31:03.057445Z" modified="2023-08-01T15:31:03.057453Z" visited="2023-08-01T15:31:03.057446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:31:03.057450Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5861.JPG" added="2023-08-01T15:31:07.339838Z" modified="2023-08-01T15:31:07.339848Z" visited="2023-08-01T15:31:07.339839Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:31:07.339845Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5862.JPG" added="2023-08-01T15:31:08.575144Z" modified="2023-08-01T15:31:08.575161Z" visited="2023-08-01T15:31:08.575147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:31:08.575155Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5863.JPG" added="2023-08-01T15:31:10.032732Z" modified="2023-08-01T15:35:04.824013Z" visited="2023-08-01T15:31:10.032734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:31:14.049376Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T15:35:04.824005Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5864.JPG" added="2023-08-01T15:31:11.800394Z" modified="2023-08-01T15:35:15.142933Z" visited="2023-08-01T15:31:11.800395Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:15.142930Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Pictures/cj.xcf" added="2023-08-01T15:34:06.799657Z" modified="2023-08-01T16:29:19.081739Z" visited="2023-08-01T15:34:06.799659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp %u&apos;" modified="2023-08-01T16:29:19.081732Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5865.JPG" added="2023-08-01T15:35:15.338448Z" modified="2023-08-01T15:35:15.338461Z" visited="2023-08-01T15:35:15.338450Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:15.338456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5866.JPG" added="2023-08-01T15:35:15.634124Z" modified="2023-08-01T15:35:15.634133Z" visited="2023-08-01T15:35:15.634125Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:15.634129Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5867.JPG" added="2023-08-01T15:35:15.852285Z" modified="2023-08-01T15:35:15.852366Z" visited="2023-08-01T15:35:15.852288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:15.852301Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5868.JPG" added="2023-08-01T15:35:15.978945Z" modified="2023-08-01T15:35:15.978951Z" visited="2023-08-01T15:35:15.978946Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:15.978949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5869.JPG" added="2023-08-01T15:35:16.215603Z" modified="2023-08-01T15:35:16.215615Z" visited="2023-08-01T15:35:16.215604Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:16.215610Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5870.JPG" added="2023-08-01T15:35:16.338742Z" modified="2023-08-01T15:35:16.338748Z" visited="2023-08-01T15:35:16.338743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:16.338746Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5871.JPG" added="2023-08-01T15:35:16.615355Z" modified="2023-08-01T15:35:16.615363Z" visited="2023-08-01T15:35:16.615357Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:16.615361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5872.JPG" added="2023-08-01T15:35:16.768801Z" modified="2023-08-01T15:35:16.768810Z" visited="2023-08-01T15:35:16.768802Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:16.768806Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5873.JPG" added="2023-08-01T15:35:17.084059Z" modified="2023-08-01T15:35:17.084066Z" visited="2023-08-01T15:35:17.084060Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:17.084064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5874.JPG" added="2023-08-01T15:35:17.202216Z" modified="2023-08-01T15:35:17.202224Z" visited="2023-08-01T15:35:17.202216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:17.202220Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5875.JPG" added="2023-08-01T15:35:17.450790Z" modified="2023-08-01T15:35:17.450802Z" visited="2023-08-01T15:35:17.450795Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:17.450799Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5876.JPG" added="2023-08-01T15:35:17.719981Z" modified="2023-08-01T15:35:17.719987Z" visited="2023-08-01T15:35:17.719981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:17.719984Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5877.JPG" added="2023-08-01T15:35:17.846640Z" modified="2023-08-01T15:35:17.846649Z" visited="2023-08-01T15:35:17.846641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:17.846646Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5878.JPG" added="2023-08-01T15:35:18.097991Z" modified="2023-08-01T15:35:18.097999Z" visited="2023-08-01T15:35:18.097992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:18.097996Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5879.JPG" added="2023-08-01T15:35:18.175819Z" modified="2023-08-01T15:35:18.175824Z" visited="2023-08-01T15:35:18.175820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:18.175822Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5880.JPG" added="2023-08-01T15:35:18.499317Z" modified="2023-08-01T15:35:18.499325Z" visited="2023-08-01T15:35:18.499318Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:18.499322Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5881.JPG" added="2023-08-01T15:35:18.602343Z" modified="2023-08-01T15:35:18.602349Z" visited="2023-08-01T15:35:18.602343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:18.602346Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5882.JPG" added="2023-08-01T15:35:18.934710Z" modified="2023-08-01T15:35:18.934738Z" visited="2023-08-01T15:35:18.934711Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:18.934731Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5883.JPG" added="2023-08-01T15:35:19.046281Z" modified="2023-08-01T15:35:19.046289Z" visited="2023-08-01T15:35:19.046282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:19.046286Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5884.JPG" added="2023-08-01T15:35:19.277223Z" modified="2023-08-01T15:35:19.277243Z" visited="2023-08-01T15:35:19.277226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:19.277235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5885.JPG" added="2023-08-01T15:35:19.418182Z" modified="2023-08-01T15:35:19.418189Z" visited="2023-08-01T15:35:19.418183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:19.418187Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5886.JPG" added="2023-08-01T15:35:19.668152Z" modified="2023-08-01T15:35:19.668158Z" visited="2023-08-01T15:35:19.668153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:19.668156Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5887.JPG" added="2023-08-01T15:35:21.416901Z" modified="2023-08-01T15:35:21.416910Z" visited="2023-08-01T15:35:21.416902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:21.416907Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/IMG_5888.JPG" added="2023-08-01T15:35:22.172858Z" modified="2023-08-01T15:35:22.172884Z" visited="2023-08-01T15:35:22.172871Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:35:22.172882Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230401_142520832.jpg" added="2023-08-01T15:36:30.161661Z" modified="2023-08-01T15:36:30.161666Z" visited="2023-08-01T15:36:30.161661Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:30.161664Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230730_120537.jpg" added="2023-08-01T15:36:37.131503Z" modified="2023-08-01T15:36:37.927079Z" visited="2023-08-01T15:36:37.131504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-08-01T15:36:37.131523Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:37.927076Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230721_210020.jpg" added="2023-08-01T15:36:42.341437Z" modified="2023-08-01T16:02:37.201649Z" visited="2023-08-01T15:36:42.341438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:37.201646Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185851.jpg" added="2023-08-01T15:36:43.915994Z" modified="2023-08-01T16:02:40.302964Z" visited="2023-08-01T15:36:43.915994Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:40.302961Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185845.jpg" added="2023-08-01T15:36:45.264042Z" modified="2023-08-01T15:36:45.264047Z" visited="2023-08-01T15:36:45.264043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:45.264045Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185843.jpg" added="2023-08-01T15:36:46.362552Z" modified="2023-08-01T15:36:46.362572Z" visited="2023-08-01T15:36:46.362556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:46.362565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185840.jpg" added="2023-08-01T15:36:47.360914Z" modified="2023-08-01T15:36:47.360932Z" visited="2023-08-01T15:36:47.360927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:47.360930Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185819.jpg" added="2023-08-01T15:36:48.449271Z" modified="2023-08-01T16:02:42.164505Z" visited="2023-08-01T15:36:48.449272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:42.164504Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185816.jpg" added="2023-08-01T15:36:49.387897Z" modified="2023-08-01T16:02:42.954960Z" visited="2023-08-01T15:36:49.387898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:42.954957Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185759.jpg" added="2023-08-01T15:36:50.421909Z" modified="2023-08-01T16:02:43.628293Z" visited="2023-08-01T15:36:50.421909Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:43.628290Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185748.jpg" added="2023-08-01T15:36:51.411129Z" modified="2023-08-01T15:36:51.411135Z" visited="2023-08-01T15:36:51.411130Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T15:36:51.411132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185742.jpg" added="2023-08-01T15:36:52.263556Z" modified="2023-08-01T16:02:44.301269Z" visited="2023-08-01T15:36:52.263556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:44.301267Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185739.jpg" added="2023-08-01T15:36:52.474314Z" modified="2023-08-01T16:02:44.931031Z" visited="2023-08-01T15:36:52.474315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:44.931028Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230718_185737.jpg" added="2023-08-01T15:36:52.985285Z" modified="2023-08-01T16:02:45.382301Z" visited="2023-08-01T15:36:52.985286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:45.382298Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230715_175519.jpg" added="2023-08-01T15:36:53.873772Z" modified="2023-08-01T16:02:45.960850Z" visited="2023-08-01T15:36:53.873775Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:45.960847Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230715_175437.jpg" added="2023-08-01T15:36:54.669257Z" modified="2023-08-01T16:02:46.495844Z" visited="2023-08-01T15:36:54.669258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:46.495842Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230709_171758.jpg" added="2023-08-01T15:37:01.080957Z" modified="2023-08-01T16:02:48.106541Z" visited="2023-08-01T15:37:01.080958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:48.106537Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230709_171749.jpg" added="2023-08-01T15:37:02.571991Z" modified="2023-08-01T16:02:52.169508Z" visited="2023-08-01T15:37:02.571992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:52.169504Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230709_171744.jpg" added="2023-08-01T15:37:03.709737Z" modified="2023-08-01T16:02:53.247272Z" visited="2023-08-01T15:37:03.709739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:53.247270Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230709_171727.jpg" added="2023-08-01T15:37:04.796819Z" modified="2023-08-01T16:02:54.587222Z" visited="2023-08-01T15:37:04.796820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:54.587220Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230709_171721.jpg" added="2023-08-01T15:37:05.931108Z" modified="2023-08-01T16:02:55.792461Z" visited="2023-08-01T15:37:05.931109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:02:55.792459Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230701_144157.jpg" added="2023-08-01T15:37:07.091896Z" modified="2023-08-01T16:03:01.406482Z" visited="2023-08-01T15:37:07.091897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:01.406479Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230701_144152.jpg" added="2023-08-01T15:37:08.772964Z" modified="2023-08-01T16:03:02.935573Z" visited="2023-08-01T15:37:08.772965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:02.935571Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230701_144149.jpg" added="2023-08-01T15:37:10.199048Z" modified="2023-08-01T16:03:03.953124Z" visited="2023-08-01T15:37:10.199050Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:03.953122Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230701_144137.jpg" added="2023-08-01T15:37:11.288883Z" modified="2023-08-01T16:03:08.809788Z" visited="2023-08-01T15:37:11.288883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:08.809784Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230701_144134.jpg" added="2023-08-01T15:37:12.615278Z" modified="2023-08-01T16:03:11.917312Z" visited="2023-08-01T15:37:12.615279Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:11.917310Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230701_140858.jpg" added="2023-08-01T15:37:13.877318Z" modified="2023-08-01T16:03:13.584779Z" visited="2023-08-01T15:37:13.877319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:13.584756Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230701_140856.jpg" added="2023-08-01T15:37:15.163893Z" modified="2023-08-01T16:03:15.334589Z" visited="2023-08-01T15:37:15.163894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:15.334587Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230628_132124.jpg" added="2023-08-01T15:37:16.845597Z" modified="2023-08-01T16:03:17.134548Z" visited="2023-08-01T15:37:16.845598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:17.134546Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230628_132123.jpg" added="2023-08-01T15:37:18.988805Z" modified="2023-08-01T16:03:19.712997Z" visited="2023-08-01T15:37:18.988806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:19.712995Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T15:37:42.074695Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230628_132120.jpg" added="2023-08-01T16:03:23.252146Z" modified="2023-08-01T16:03:37.962350Z" visited="2023-08-01T16:03:23.252147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:30.074047Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-01T16:03:37.962347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230625_133148.jpg" added="2023-08-01T16:03:24.545001Z" modified="2023-08-01T16:03:28.704686Z" visited="2023-08-01T16:03:24.545002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:28.704684Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R8YTB18B1AL/Internal%20storage/DCIM/Camera/20230610_120703.jpg" added="2023-08-01T16:03:25.823434Z" modified="2023-08-01T16:03:25.823440Z" visited="2023-08-01T16:03:25.823435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-01T16:03:25.823438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/GitHubDesktop-linux-2.6.3-linux1.deb" added="2023-08-01T19:42:09.925144Z" modified="2023-08-01T19:57:03.410217Z" visited="2023-08-01T19:42:09.925145Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-08-01T19:54:49.699795Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_ubuntu-software-local-file.desktop /snap/bin/snap-store.ubuntu-software-local-file --local-filename %f&apos;" modified="2023-08-01T19:57:03.410176Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/.cache/.fr-PWX4ob/control" added="2023-08-01T19:45:46.537734Z" modified="2023-08-01T19:46:09.952892Z" visited="2023-08-01T19:45:46.537734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-01T19:46:09.952880Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/.cache/.fr-l3DOBW/postinst" added="2023-08-01T19:45:55.432154Z" modified="2023-08-01T19:45:55.432161Z" visited="2023-08-01T19:45:55.432155Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-01T19:45:55.432158Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/.cache/.fr-IHMSy1/postrm" added="2023-08-01T19:46:04.528775Z" modified="2023-08-01T19:46:04.528781Z" visited="2023-08-01T19:46:04.528776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-01T19:46:04.528779Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/.cache/.fr-iPyhMR/debian-binary" added="2023-08-01T19:47:46.101680Z" modified="2023-08-01T19:47:50.061068Z" visited="2023-08-01T19:47:46.101681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-08-01T19:47:50.061066Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/Downloads/GitHubDesktop-linux-2.6.3-linux1.deb" added="2023-08-01T19:55:45.625100Z" modified="2023-08-01T19:55:45.625108Z" visited="2023-08-01T19:55:45.625101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-08-01T19:55:45.625105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brian016/.cache/.fr-BA3aB4/debian-binary" added="2023-08-01T19:56:14.337521Z" modified="2023-08-01T19:56:16.454809Z" visited="2023-08-01T19:56:14.337522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-08-01T19:56:16.454808Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

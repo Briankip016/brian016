@@ -1,0 +1,59 @@
+{
+   "checksum": "7fdc781f1f2faa98106afa0d47d0318b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13330776563202452",
+            "date_last_used": "0",
+            "guid": "bc3fc1aa-fef4-4d1f-9a28-400c8471d4be",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Havillah Children's Home - Google Photos",
+            "type": "url",
+            "url": "https://photos.google.com/share/AF1QipOddjVL7DX-8LUnDRsBlI3REZlEdgPOvK2n-1x1B840xxaAKEboq0I0KzMMJ0WPzA?key=Rlp0OUZrd1lNWlhKMW5VRDBIQkcxY3ZXZVpqM0x3"
+         }, {
+            "date_added": "13334747422423170",
+            "date_last_used": "0",
+            "guid": "2aad494e-1556-4827-b864-17ffa26a2852",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sololearn: Learn to Code",
+            "type": "url",
+            "url": "https://www.sololearn.com/learn/courses/python-introduction/lesson/927111613?p=4"
+         } ],
+         "date_added": "13335004092157135",
+         "date_last_used": "0",
+         "date_modified": "13334747422423170",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13335004092157138",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13335004092157140",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu0BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgmAEry3iAEGACGAEry3iAEGADIYChYIAhGYn9XHiAEGABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ4LDVx4gBBgAR4LDVx4gBBgAp0r/Vx4gBBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmAp3bCiAEGABGAp3bCiAEGACmvrtXHiAEGADCAz9qTjLGAA7oBAggBEgAqGE5uckliOHJjNHp1R2FRL095RlAxYkE9PUgDEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeTFhbTB4UldvdWpnSDY5MFdHbm9ZZ0ZReFVPWHoyeS9ZbHVwTlMxQlpKSTA0QU9BN1hoV0xicWp2VEk5bnV6UTBWakp3dmFZMnlUc2NOdm1PZjV2WmQ1SkQvV3c9PRgAIAAoADDw8sex9bCAAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEusBCAYS5gEKHGYyZUtWamxGcHJWWjVrbUtDNmg0eDMyUGNYUT0SZlo6QURxdEFaeU5hb21yQ2h3WDIzUkRIY1l5cVEybnRLM1JHTisydU9Ra2g5NFRBOEgrNzZPeEVoVlJOOUU1Nm02THdYU1dUbG4vM2hNcVdTa3dJYlFVNzQ4OVlGTDFKMWxzTFE9PRgAIAIoAjCQ2ISz9bCAAzjY7a7hmDFAtOHp25kxShxmaEY2cm9STm82TXRiTG5JSXBHSnJsOUVQSFk9Wh4iHHV1MG1FV1hSVkhZbVFNRFlYUUJOU0FBOVU5dz1ljwRhOhLrAQgFEuYBChxvYXdvcWNTcEJIMzNET0xSZkVIL29ObmlweG89EmZaOkFEcXRBWnlOYW9tckNod1gyM1JESGNZeXFRMm5XOUl5WElZeGx2M05zZC9GcTJyK0thTE1XdnZnaHNEeU1QWnF2V2xGUEJEa2ExaWlraHRRMlRUSFdsQTh0Kzl5cHViRzl3PT0YACACKAIwkNiEs/WwgAM4nez0+4kxQLPh6duZMUocM3BBbzh0MFhDeTlZWjRjYTA0aEJWWFg0U3Y0PVoeIhxPNWJmQ202RFJoOSt1d1FuRTh5djFKTnQ1QWc9ZTSSMuISqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5a0djSWd3QTF6N3NEaVpOU2dSdVFjOWxoYmRsOTAxcU1lMnUwNk82VTNFT2tqb3RVYnJncGJoN1hVNDZWbFhoaDNzajNkGAAgACgAMPDyx7H1sIADOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp3aElVeHhzeUZ0c3R0OEN3UmxWQjV1eXB3SC81N2lrTEhuakNiOTRyZFNqU0lnYk41TUthZnZpSG5wS2VubmFDVlRlbWp1b091NGFmd0R5WUpLc1RWd3EzZmUxUT09GAAgACgAMPDyx7H1sIADOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAwATgA",
+   "version": 1
+}
